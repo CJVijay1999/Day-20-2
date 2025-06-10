@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  margin: 15px;
+}
+
+.calendar {
+  padding: 10px;
+  margin: 10px;
+}
+
+.calendar-date {
+  padding: 10px;
+  margin: 10px;
+}
+
+.date-time {
+  padding: 10px;
+  margin: 10px;
+}
+
+.date-time #digital-clock {
+  padding: 10px;
+  margin: 10px;
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #fff,
+    0 0 50px #fff, 0 0 60px #fff, 0 0 70px #fff;
+}
+
+#date {
+  margin-top: 1rem;
+}
