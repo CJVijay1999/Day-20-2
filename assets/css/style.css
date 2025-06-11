@@ -5,6 +5,11 @@
   font-family: "Poppins", sans-serif;
 }
 
+body {
+  height: 100%;
+  margin: 0;
+}
+
 h1 {
   margin: 15px;
 }
@@ -33,4 +38,14 @@ h1 {
 
 #date {
   margin-top: 1rem;
+}
+
+.diagonal-bg {
+  height: 100vh;
+  background: linear-gradient(135deg, #FFFDF6 50%, #b33791  50%, #C5BAFF);
+}
+
+.month-year {
+  padding: 10px;
+  margin: 10px;
 }
