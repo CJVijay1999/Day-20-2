@@ -42,10 +42,14 @@ h1 {
 
 .diagonal-bg {
   height: 100vh;
-  background: linear-gradient(135deg, #FFFDF6 50%, #b33791  50%, #C5BAFF);
+  background: linear-gradient(170deg, #FFFDF6 50%, #b33791  50%, #C5BAFF);
 }
 
 .month-year {
   padding: 10px;
   margin: 10px;
+}
+
+.tenth-day {
+  border-radius: 50%;
 }
